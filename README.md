@@ -1,6 +1,7 @@
 Parser and DOM over the xcode pbxproj
 
 Merged: https://github.com/NativeScript/pbxproj-dom/pull/10
+
 Npm: @mmbt/pbxproj-dom
 
 [![Build Status](https://travis-ci.org/NativeScript/pbxproj-dom.svg?branch=master)](https://travis-ci.org/NativeScript/pbxproj-dom)
