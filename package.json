@@ -1,6 +1,6 @@
 {
-  "name": "pbxproj-dom",
-  "version": "1.2.0",
+  "name": "@mmbt/pbxproj-dom",
+  "version": "1.2.1",
   "description": "",
   "main": "index.js",
   "devDependencies": {
